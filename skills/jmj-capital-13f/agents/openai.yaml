@@ -1,0 +1,4 @@
+interface:
+  display_name: "JMJ Capital 13F"
+  short_description: "Robinhood portfolio graphics and position snapshots"
+  default_prompt: "Use $jmj-capital-13f to update both JMJ Capital graphics from Robinhood and save a dated position snapshot."

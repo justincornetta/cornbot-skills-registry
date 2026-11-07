@@ -1,0 +1,164 @@
+{
+  "crypto:BTC": {
+    "display": "BTC",
+    "name": "Bitcoin",
+    "logo": "BTC",
+    "badge": false
+  },
+  "equity:IREN": {
+    "display": "IREN",
+    "name": "IREN Limited",
+    "logo": "IREN",
+    "badge": false
+  },
+  "equity:CIFR": {
+    "display": "CIFR",
+    "name": "Cipher Digital",
+    "logo": "CIFR",
+    "badge": false
+  },
+  "equity:WULF": {
+    "display": "WULF",
+    "name": "TeraWulf",
+    "logo": "WULF",
+    "badge": false
+  },
+  "equity:EOSE": {
+    "display": "EOSE",
+    "name": "Eos Energy Enterprises",
+    "logo": "EOSE",
+    "badge": false
+  },
+  "equity:HELP": {
+    "display": "HELP",
+    "name": "Helus Pharma",
+    "logo": "HELP",
+    "badge": true
+  },
+  "equity:STIM": {
+    "display": "STIM",
+    "name": "Neuronetics",
+    "logo": "STIM",
+    "badge": true
+  },
+  "equity:ETH": {
+    "display": "ETH ETF",
+    "name": "Grayscale Ethereum Staking Mini ETF",
+    "logo": "ETH-ETF",
+    "badge": true
+  },
+  "equity:TSLA": {
+    "display": "TSLA",
+    "name": "Tesla",
+    "logo": "TSLA",
+    "badge": false
+  },
+  "crypto:ETH": {
+    "display": "ETH",
+    "name": "Ethereum",
+    "logo": "ETH",
+    "badge": false
+  },
+  "equity:NBIS": {
+    "display": "NBIS",
+    "name": "Nebius Group",
+    "logo": "NBIS",
+    "badge": false
+  },
+  "equity:BMNR": {
+    "display": "BMNR",
+    "name": "BitMine Immersion Technologies",
+    "logo": "BMNR",
+    "badge": false
+  },
+  "equity:ASST": {
+    "display": "ASST",
+    "name": "Strive",
+    "logo": "ASST",
+    "badge": true
+  },
+  "crypto:SOL": {
+    "display": "SOL",
+    "name": "Solana",
+    "logo": "SOL",
+    "badge": false
+  },
+  "equity:RVII": {
+    "display": "RVII",
+    "name": "Robinhood Ventures Fund II",
+    "logo": "RVII",
+    "badge": false
+  },
+  "cash:USD": {
+    "display": "Cash",
+    "name": "Cash & Cash Equivalents",
+    "logo": "Cash",
+    "badge": false
+  },
+  "equity:ETHB": {
+    "display": "ETHB",
+    "name": "iShares Staked Ethereum ETF",
+    "logo": "ETHB",
+    "badge": true
+  },
+  "crypto:SUI": {
+    "display": "SUI",
+    "name": "Sui",
+    "logo": "SUI",
+    "badge": false
+  },
+  "crypto:LINK": {
+    "display": "LINK",
+    "name": "Chainlink",
+    "logo": "LINK",
+    "badge": false
+  },
+  "equity:IWM": {
+    "display": "IWM",
+    "name": "IWM",
+    "logo": "IWM",
+    "badge": false
+  },
+  "equity:CMPS": {
+    "display": "CMPS",
+    "name": "CMPS",
+    "logo": "CMPS",
+    "badge": false
+  },
+  "equity:SPY": {
+    "display": "SPY",
+    "name": "SPY",
+    "logo": "SPY",
+    "badge": false
+  },
+  "equity:QQQ": {
+    "display": "QQQ",
+    "name": "QQQ",
+    "logo": "QQQ",
+    "badge": false
+  },
+  "equity:TDOC": {
+    "display": "TDOC",
+    "name": "TDOC",
+    "logo": "TDOC",
+    "badge": false
+  },
+  "equity:DIA": {
+    "display": "DIA",
+    "name": "DIA",
+    "logo": "DIA",
+    "badge": false
+  },
+  "equity:ENPH": {
+    "display": "ENPH",
+    "name": "ENPH",
+    "logo": "ENPH",
+    "badge": false
+  },
+  "equity:SICP": {
+    "display": "SICP",
+    "name": "SICP",
+    "logo": "SICP",
+    "badge": false
+  }
+}

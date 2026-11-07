@@ -1,0 +1,13 @@
+{
+  "name": "jmj-capital-13f-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PNG export for the JMJ Capital portfolio skill",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "dependencies": {
+    "sharp": "0.35.5"
+  }
+}
